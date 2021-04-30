@@ -1,0 +1,16 @@
+c:\users\behan2821939\documents\visual studio 2012\Projects\PortSerial\PortSerial\obj\Debug\PortSerial.csprojResolveAssemblyReference.cache
+c:\users\behan2821939\documents\visual studio 2012\Projects\PortSerial\PortSerial\obj\Debug\PortSerial.Form1.resources
+c:\users\behan2821939\documents\visual studio 2012\Projects\PortSerial\PortSerial\obj\Debug\PortSerial.Properties.Resources.resources
+c:\users\behan2821939\documents\visual studio 2012\Projects\PortSerial\PortSerial\obj\Debug\PortSerial.csproj.GenerateResource.Cache
+c:\users\behan2821939\documents\visual studio 2012\Projects\PortSerial\PortSerial\bin\Debug\PortSerial.exe
+c:\users\behan2821939\documents\visual studio 2012\Projects\PortSerial\PortSerial\bin\Debug\PortSerial.pdb
+c:\users\behan2821939\documents\visual studio 2012\Projects\PortSerial\PortSerial\obj\Debug\PortSerial.exe
+c:\users\behan2821939\documents\visual studio 2012\Projects\PortSerial\PortSerial\obj\Debug\PortSerial.pdb
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\PortSerial\PortSerial\obj\Debug\PortSerial.exe
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\PortSerial\PortSerial\obj\Debug\PortSerial.pdb
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\PortSerial\PortSerial\bin\Debug\PortSerial.exe
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\PortSerial\PortSerial\bin\Debug\PortSerial.pdb
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\PortSerial\PortSerial\obj\Debug\PortSerial.csprojResolveAssemblyReference.cache
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\PortSerial\PortSerial\obj\Debug\PortSerial.Form1.resources
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\PortSerial\PortSerial\obj\Debug\PortSerial.Properties.Resources.resources
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\PortSerial\PortSerial\obj\Debug\PortSerial.csproj.GenerateResource.Cache
